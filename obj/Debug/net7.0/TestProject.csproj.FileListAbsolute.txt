@@ -1,0 +1,56 @@
+D:\bizybizy\hip hop\generic in c#\CsharpProject\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\bizybizy\hip hop\generic in c#\CsharpProject\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+D:\bizybizy\hip hop\generic in c#\CsharpProject\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+D:\bizybizy\hip hop\generic in c#\CsharpProject\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+D:\bizybizy\hip hop\generic in c#\CsharpProject\TestProject\bin\Debug\net7.0\TestProject.exe
+D:\bizybizy\hip hop\generic in c#\CsharpProject\TestProject\bin\Debug\net7.0\TestProject.deps.json
+D:\bizybizy\hip hop\generic in c#\CsharpProject\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+D:\bizybizy\hip hop\generic in c#\CsharpProject\TestProject\bin\Debug\net7.0\TestProject.dll
+D:\bizybizy\hip hop\generic in c#\CsharpProject\TestProject\bin\Debug\net7.0\TestProject.pdb
+D:\bizybizy\hip hop\generic in c#\CsharpProject\TestProject\obj\Debug\net7.0\TestProject.dll
+D:\bizybizy\hip hop\generic in c#\CsharpProject\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+D:\bizybizy\hip hop\generic in c#\CsharpProject\TestProject\obj\Debug\net7.0\TestProject.pdb
+D:\bizybizy\hip hop\generic in c#\CsharpProject\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+D:\bizybizy\hip hop\generic in c#\CsharpProject\TestProject\obj\Debug\net7.0\ref\TestProject.dll
+D:\bizybizy\hip hop\ASSIGNMENT 1\CsharpProject\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\bizybizy\hip hop\ASSIGNMENT 1\CsharpProject\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+D:\bizybizy\hip hop\ASSIGNMENT 1\CsharpProject\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+D:\bizybizy\hip hop\ASSIGNMENT 1\CsharpProject\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+D:\bizybizy\hip hop\ASSIGNMENT 1\CsharpProject\TestProject\obj\Debug\net7.0\TestProject.dll
+D:\bizybizy\hip hop\ASSIGNMENT 1\CsharpProject\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+D:\bizybizy\hip hop\ASSIGNMENT 1\CsharpProject\TestProject\obj\Debug\net7.0\TestProject.pdb
+D:\bizybizy\hip hop\ASSIGNMENT 1\CsharpProject\TestProject\bin\Debug\net7.0\TestProject.exe
+D:\bizybizy\hip hop\ASSIGNMENT 1\CsharpProject\TestProject\bin\Debug\net7.0\TestProject.deps.json
+D:\bizybizy\hip hop\ASSIGNMENT 1\CsharpProject\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+D:\bizybizy\hip hop\ASSIGNMENT 1\CsharpProject\TestProject\bin\Debug\net7.0\TestProject.dll
+D:\bizybizy\hip hop\ASSIGNMENT 1\CsharpProject\TestProject\bin\Debug\net7.0\TestProject.pdb
+D:\bizybizy\hip hop\ASSIGNMENT 1\CsharpProject\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+D:\bizybizy\hip hop\ASSIGNMENT 1\CsharpProject\TestProject\obj\Debug\net7.0\ref\TestProject.dll
+D:\bizybizy\hip hop\ASSIGNMENT 1\bin\Debug\net7.0\TestProject.exe
+D:\bizybizy\hip hop\ASSIGNMENT 1\bin\Debug\net7.0\TestProject.deps.json
+D:\bizybizy\hip hop\ASSIGNMENT 1\bin\Debug\net7.0\TestProject.runtimeconfig.json
+D:\bizybizy\hip hop\ASSIGNMENT 1\bin\Debug\net7.0\TestProject.dll
+D:\bizybizy\hip hop\ASSIGNMENT 1\bin\Debug\net7.0\TestProject.pdb
+D:\bizybizy\hip hop\ASSIGNMENT 1\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\bizybizy\hip hop\ASSIGNMENT 1\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+D:\bizybizy\hip hop\ASSIGNMENT 1\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+D:\bizybizy\hip hop\ASSIGNMENT 1\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+D:\bizybizy\hip hop\ASSIGNMENT 1\obj\Debug\net7.0\TestProject.dll
+D:\bizybizy\hip hop\ASSIGNMENT 1\obj\Debug\net7.0\refint\TestProject.dll
+D:\bizybizy\hip hop\ASSIGNMENT 1\obj\Debug\net7.0\TestProject.pdb
+D:\bizybizy\hip hop\ASSIGNMENT 1\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+D:\bizybizy\hip hop\ASSIGNMENT 1\obj\Debug\net7.0\ref\TestProject.dll
+D:\bizybizy\hip hop\SAMUEL GONDWE BSC-58-20 ASSIGNMENT 1\bin\Debug\net7.0\TestProject.exe
+D:\bizybizy\hip hop\SAMUEL GONDWE BSC-58-20 ASSIGNMENT 1\bin\Debug\net7.0\TestProject.deps.json
+D:\bizybizy\hip hop\SAMUEL GONDWE BSC-58-20 ASSIGNMENT 1\bin\Debug\net7.0\TestProject.runtimeconfig.json
+D:\bizybizy\hip hop\SAMUEL GONDWE BSC-58-20 ASSIGNMENT 1\bin\Debug\net7.0\TestProject.dll
+D:\bizybizy\hip hop\SAMUEL GONDWE BSC-58-20 ASSIGNMENT 1\bin\Debug\net7.0\TestProject.pdb
+D:\bizybizy\hip hop\SAMUEL GONDWE BSC-58-20 ASSIGNMENT 1\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\bizybizy\hip hop\SAMUEL GONDWE BSC-58-20 ASSIGNMENT 1\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+D:\bizybizy\hip hop\SAMUEL GONDWE BSC-58-20 ASSIGNMENT 1\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+D:\bizybizy\hip hop\SAMUEL GONDWE BSC-58-20 ASSIGNMENT 1\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+D:\bizybizy\hip hop\SAMUEL GONDWE BSC-58-20 ASSIGNMENT 1\obj\Debug\net7.0\TestProject.dll
+D:\bizybizy\hip hop\SAMUEL GONDWE BSC-58-20 ASSIGNMENT 1\obj\Debug\net7.0\refint\TestProject.dll
+D:\bizybizy\hip hop\SAMUEL GONDWE BSC-58-20 ASSIGNMENT 1\obj\Debug\net7.0\TestProject.pdb
+D:\bizybizy\hip hop\SAMUEL GONDWE BSC-58-20 ASSIGNMENT 1\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+D:\bizybizy\hip hop\SAMUEL GONDWE BSC-58-20 ASSIGNMENT 1\obj\Debug\net7.0\ref\TestProject.dll
